@@ -4,7 +4,7 @@ import './form.style.css'
 const Form = props =>{
     return(
         <div className="container">
-            <h1>Weather24</h1>
+            <h1 className="mt-3 text-white">Welcome to Weather24</h1>
             <div>{props.error ? error() : null}</div>
             <form onSubmit={props.loadWeather}>
             <div className="row">
