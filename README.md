@@ -2,4 +2,4 @@
 
 #### Simple Weather created Using ReactJS & Weather API.
 
-(View Live)[https://weather24.netlify.app/]
+[View Live](https://weather24.netlify.app/)
